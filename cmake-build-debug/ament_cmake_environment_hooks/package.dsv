@@ -1,0 +1,4 @@
+source;share/cod_serial/local_setup.bash
+source;share/cod_serial/local_setup.dsv
+source;share/cod_serial/local_setup.sh
+source;share/cod_serial/local_setup.zsh
